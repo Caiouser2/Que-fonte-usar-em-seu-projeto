@@ -1,4 +1,4 @@
-# Principais diferenças entre fontes com srifa e fnontes sem serifa.
+# Principais diferenças entre fontes com serifa e fnontes sem serifa.
 
 <img src="./IMG/img1.png">
 <img src="./IMG/img2.png">
