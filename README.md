@@ -1,6 +1,12 @@
-<<<<<<< HEAD
-Tipos de fontes para projetos
-=======
-# Que-fonte-usar-em-seu-projeto
-Principais características das fontes com serifa e sem serifa, aprendendo a diferenciar para aplicar em sues projetos.
->>>>>>> d3d65ee66e208f3e123a743c4274dfd6f403960e
+# Principais diferenças entre fontes com srifa e fnontes sem serifa.
+
+<img src="./IMG/img1.png">
+<img src="./IMG/img2.png">
+<img src="./IMG/img3.png">
+<img src="./IMG/img4.png">
+<img src="./IMG/img5.png">
+<img src="./IMG/img6.png">
+<img src="./IMG/img7.png">
+<img src="./IMG/img8.png">
+
+
