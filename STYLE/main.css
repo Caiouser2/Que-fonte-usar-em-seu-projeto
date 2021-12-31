@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Cormorant+Garamond&family=Crete+Round&family=EB+Garamond:ital@1&family=Lato&family=Libre+Baskerville&family=Lora:ital@1&family=Merriweather&family=Montserrat&family=Nanum+Myeongjo&family=Noto+Sans&family=Open+Sans&family=PT+Sans:ital@1&family=Playfair+Display:ital@1&family=Roboto&family=Roboto+Condensed&family=Roboto+Slab&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+    text-decoration: none;  
+     
+}
+
+:root{
+    --cor-titulos:#093268;
+    --sub-titulos:#f08080;
+    --nome-fonte:#3cb371;
+}
+                    /*\\\\\fontes usadas/////*/
+
+.font-1{font-family: 'Libre Baskerville', serif;}
+
+.font-2{font-family: 'EB Garamond', serif;}
+
+.font-3{font-family: 'Playfair Display', serif;}
+
+.font-4{font-family: 'Cormorant', serif;}
+
+.font-5{font-family: 'Cinzel', serif;}
+
+.font-6{font-family: 'Lora', serif;}
+
+.font-7{font-family: 'Montserrat', sans-serif;}
+
+.font-8{font-family: 'Noto Sans', sans-serif;}
+
+.font-9{font-family: 'Open Sans', sans-serif}
+
+.font-10{font-family: 'Lato', sans-serif;}
+
+.font-11{font-family: 'PT Sans', sans-serif;}
+
+.font-12{font-family: 'Roboto', sans-serif}
+
+                    /*\\\\\coluna de fontes: Serifada, sem Serifa/////*/
+header{
+    text-align: center;
+    margin-top: 15px;
+    color: var(--cor-titulos);
+    width: 80%;
+    margin:0px auto;
+}
+
+header>h2{
+    margin-top: 8px;
+    font-size: 34px;
+    color: var(--cor-titulos);
+}
+
+h1{
+    color: var(--cor-titulos);
+    font-size: 33px;
+    margin-top: 27px;
+    font-size:59px;
+    text-align:center;
+}
+
+h2{
+    color: var(--sub-titulos);
+    font-size: 37px;
+    margin-top: 17px;
+    padding-bottom: 16px;
+    text-align:center;
+}
+
+.first-container{    
+    display: flex;
+    flex-direction:row;
+}
+
+.conteudo{
+    margin: 0px auto;
+    width: 82%;
+    margin-top:16px;
+    text-align:justify;
+}
+
+a{ 
+    font-size:30px;
+    color: var(--nome-fonte);
+}
+
+a:hover{ 
+   text-decoration: underline var(--sub-titulos);
+}
+
+span{
+    font-size: 27px;
+    color: #051428;
+}
+
+                    /*\\\\\explicação fontes //////*/
+
+.second-container{
+    width: 90%;
+    margin: 0px auto;
+    letter-spacing: 2px; 
+    margin-bottom: 35px;
+}
+
+.description-serifa{ 
+    text-align: justify;
+}
+
+.repair{
+    font-weight:bolder;
+    text-align:center;
+    margin-top: 20px;
+}
+
+                    /*\\\\\rodape/////*/
+
+.footer{
+    height:87px ;
+    margin: 0px auto;
+    color: #051428;
+    font-size: 22px;
+    text-align: center;
+    width:90%;
+}
+
+                    /*\\\\\responsivo/////*/
+
+@media (max-width:583px){
+    .first-container{    
+        display: flex;
+        flex-direction:column;
+    }
+}
+                    
+
+
+
+
