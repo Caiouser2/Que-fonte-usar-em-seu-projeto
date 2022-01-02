@@ -1,4 +1,4 @@
-# Principais diferenças entre fontes com serifa e fnontes sem serifa.
+# Principais diferenças entre fontes com serifa e fontes sem serifa.
 
 ## Site responsivo, com link de cada fonte usada. nos exemplos.
 
