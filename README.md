@@ -1,6 +1,6 @@
 # Principais diferenças entre fontes com serifa e fontes sem serifa.
 
-## Site responsivo, com link de cada fonte usada. nos exemplos.
+### Site responsivo, com link de cada fonte usada nos exemplos.
 
 <img src="./IMG/img1.png">
 <img src="./IMG/img2.png">
